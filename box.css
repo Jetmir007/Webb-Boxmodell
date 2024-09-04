@@ -1,0 +1,35 @@
+#A{
+    text-align: center;
+    border:10px hidden rgb(190, 220, 190);
+    background-color: rgba(167, 167, 247, 0.995);
+    font-size: 3em;
+}
+header{
+    font-size: 4em;
+    text-align: center;
+    border: 16px groove gray;
+    border-radius: 20px;
+    text-shadow: 4px 4px 4px;
+    background-color: #11d4c2;
+    box-shadow: 5px 5px 5px;
+    
+}
+body{
+    background-color: black;
+}
+#B{
+    color: #ffffff;
+    font-size: 2em;
+    border: 10px dotted red;
+    box-shadow: 4px 75px 500px;
+    text-shadow:3px 3px 3px ;
+    padding: 1em;
+    margin: 3em;
+}
+img{
+    margin-left: 37.5%;
+    height:20em ;
+    margin-bottom: 5em;
+    border: 10px outset red;
+    box-shadow: 10px 10px 120px rgb(255, 255, 255);
+}
